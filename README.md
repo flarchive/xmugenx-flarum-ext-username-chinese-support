@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of xmugenx/flarum-ext-username-chinese-support.** Not for installation: use [Packagist](https://packagist.org/packages/xmugenx/flarum-ext-username-chinese-support) or the [upstream repository](https://github.com/xmugenx/flarum-ext-username-chinese-support).
 
-**0** versions archived · Latest: [`0.1.1.1`](https://github.com/flarchive/xmugenx-flarum-ext-username-chinese-support/tree/archive/v0.1.1.1) · License: `MIT` · Flarum: `^0.1.0`
+**3** versions archived · Latest: [`0.1.1.1`](https://github.com/flarchive/xmugenx-flarum-ext-username-chinese-support/tree/archive/v0.1.1.1) · License: `MIT` · Flarum: `^0.1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-10-17 | `^0.1.0` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-username-chinese-support/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-10-17 | `^0.1.0` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-username-chinese-support/tree/archive/v0.1.1) |
+| `0.1.1.1` | 2019-10-17 | `^0.1.0` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-username-chinese-support/tree/archive/v0.1.1.1) |
 
 Catalog entry: [packages/xmugenx-flarum-ext-username-chinese-support.json](https://github.com/flarchive/archive-index/blob/main/packages/xmugenx-flarum-ext-username-chinese-support.json)
 
